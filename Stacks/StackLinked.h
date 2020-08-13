@@ -1,6 +1,6 @@
 //--------------------------------------------------------------------
 //
-//  Laboratory 6                                          StackArray.h
+//  StackArray.h
 // 
 //  Class declaration for the array implementation of the Stack ADT
 //
