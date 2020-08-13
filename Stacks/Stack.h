@@ -1,6 +1,6 @@
 //--------------------------------------------------------------------
 //
-//  Laboratory 6                                               Stack.h
+// Stack.h
 // 
 //  Class declaration of the abstract class interface to be used as
 //  the basis for implementations of the Stack ADT.
