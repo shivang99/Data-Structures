@@ -1,6 +1,6 @@
 //--------------------------------------------------------------------
 //
-//  Laboratory 8                                             show8.cpp
+//  show8.cpp
 //
 //  Linked implementation of the showStructure operation for the
 //  Expression Tree ADT
