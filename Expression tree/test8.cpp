@@ -1,6 +1,6 @@
 //--------------------------------------------------------------------
 //
-//  Laboratory 8                                         test8.cpp
+//  test8.cpp
 //
 //  Test program for the operations in the Expression Tree ADT
 //
@@ -25,7 +25,7 @@ void dummy ( ExprTree<DataType> copyTree );   // copyTree is passed by value
 
 int main()
 {
-#if !LAB8_TEST1 || LAB8_TEST2 || LAB8_TEST3
+#if !TEST1 || TEST2 || TEST3
     // Don't do this if testing boolean tree, unless also testing programming 
     // exercises 2 or 3 (for which this section is mostly needed).
     // The tricky part occurs if testing exercise 1 and (2 or 3), or if
@@ -45,7 +45,7 @@ int main()
      testExpression.showStructure();
 #endif
 
-#if LAB8_TEST1
+#if TEST1
     cout << "Start of testing the boolean expression tree" << endl;
     ExprTree<bool> boolTree;
     cout << endl << "Enter a boolean expression in prefix form : ";
@@ -56,7 +56,7 @@ int main()
     cout << "** End of testing the boolean expression tree" << endl;
 #endif
 
-#if LAB8_TEST2
+#if TEST2
     cout << "Start of testing commute()" << endl;
      testExpression.commute();
      cout << endl << "Fully commuted tree: " << endl;
@@ -66,7 +66,7 @@ int main()
     cout << "End of testing commute()" << endl;
 #endif
 
-#if LAB8_TEST3
+#if TEST3
     cout << "Start of testing isEquivalent()" << endl;
     ExprTree<float> same = testExpression;
     cout << "same is equal (tests copy constructor) ?  ";
@@ -84,7 +84,7 @@ int main()
     cout << "** End of testing isEquivalent()" << endl;
 #endif
 
-#if !LAB8_TEST1 && !LAB8_TEST2 && !LAB8_TEST3
+#if !TEST1 && !TEST2 && !TEST3
     // Don't bother with this if testing any of the programming exercises
     cout << endl << "Clear the tree" << endl;
     testExpression.clear();
