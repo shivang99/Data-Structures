@@ -1,6 +1,6 @@
 //--------------------------------------------------------------------
 //
-//  Laboratory 11, In-lab Exercise 1                     database.cs
+// database.cs
 //	Name: Shivang Trivedi
 //	Date: April 1, 2019
 //  (Shell) Indexed accounts database program
