@@ -3,7 +3,7 @@
 
 //--------------------------------------------------------------------
 //
-//  Laboratory 9                                         show9.cpp
+//  show9.cpp
 //
 //  Linked implementation of the showStructure operation for the
 //  Binary Search Tree ADT
