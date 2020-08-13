@@ -1,6 +1,5 @@
 //Name: Shivang Trivedi
 //Date: March 27, 2019
-//Lab: 09 - Take Home
 #include "BSTree.h"
 #include <algorithm> 
 template <typename DataType, class KeyType>
