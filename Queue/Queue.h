@@ -1,6 +1,6 @@
 //--------------------------------------------------------------------
 //
-//  Laboratory 7                                               Queue.h
+//  Queue.h
 // 
 //  Class declaration of the abstract class interface to be used as
 //  the basis for implementations of the Queue ADT.
