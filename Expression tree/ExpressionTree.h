@@ -1,6 +1,6 @@
 //--------------------------------------------------------------------
 //
-//  Laboratory 8                                     ExpressionTree.h
+//  ExpressionTree.h
 //
 //  Class declarations for the linked implementation of the
 //  Expression Tree ADT -- including the recursive helpers for the
