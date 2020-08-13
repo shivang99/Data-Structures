@@ -118,7 +118,7 @@ void test_queue(Queue<DataType>& testQueue)
 
 int main() 
 {
-#if !LAB7_TEST1
+#if !TEST1
     cout << "Testing array implementation" << endl;
     QueueArray<char> s1;
     test_queue(s1);
