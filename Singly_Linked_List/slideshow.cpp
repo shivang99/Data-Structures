@@ -1,11 +1,10 @@
 //--------------------------------------------------------------------
 //
-//  Laboratory 5, Programming Exercise 1                 slideshow.cpp
+//  slideshow.cpp
 //
 //  (Shell) Slide show program
 // Name: Shivang Trivedi
 // Date: Feb 19, 2019
-// Lab: 05-exercise
 // Description: This program reads slides from a text file and prints it out on screen.
 //--------------------------------------------------------------------
 
