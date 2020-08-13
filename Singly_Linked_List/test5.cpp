@@ -1,6 +1,6 @@
 //--------------------------------------------------------------------
 //
-//  Laboratory 5                                           test5.cpp
+//  test5.cpp
 // 
 //  Test program for the operations in the List ADT
 //
