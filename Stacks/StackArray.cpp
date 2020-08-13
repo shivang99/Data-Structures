@@ -4,7 +4,6 @@
 
 //Name: Shivang Trivedi
 //Date: Feb 20, 2019
-//Lab: 06 - Stacks Array
 
 using namespace std;
 
