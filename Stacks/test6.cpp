@@ -1,6 +1,6 @@
 //--------------------------------------------------------------------
 //
-//  Laboratory 6                                           test6.cpp
+// test6.cpp
 //
 //  Test program for the operations in the Stack ADT
 //
