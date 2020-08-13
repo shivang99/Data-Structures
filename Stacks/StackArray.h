@@ -1,6 +1,6 @@
 //--------------------------------------------------------------------
 //
-//  Laboratory 6                                         StackLinked.h
+// StackLinked.h
 // 
 //  Class declaration for the linked implementation of the Stack ADT
 //
