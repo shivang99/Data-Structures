@@ -1,6 +1,6 @@
 //--------------------------------------------------------------------
 //
-//  Laboratory 9                                    BSTree.h
+// BSTree.h
 //
 //  Class declarations for the linked implementation of the Binary
 //  Search Tree ADT -- including the recursive helpers of the
