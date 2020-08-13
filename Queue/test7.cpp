@@ -1,6 +1,6 @@
 //--------------------------------------------------------------------
 //
-//  Laboratory 7                                           test7.cpp
+// test7.cpp
 //
 //  Test program for the operations in the Queue ADT
 //
@@ -12,7 +12,7 @@
 
 using namespace std;
 
-#if LAB7_TEST1
+#if TEST1
 #   include "QueueLinked.cpp"
 #else
 #   include "QueueArray.cpp"
@@ -143,7 +143,7 @@ void print_help()
     cout << "  E  : Empty queue?" << endl;
     cout << "  F  : Full queue?" << endl;
     cout << "  >x : Put x at front    ("
-#if LAB7_TEST2
+#if TEST2
          << "  Active "
 #else
          << "Inactive "
@@ -151,7 +151,7 @@ void print_help()
 	 << ": Programming Exercise 2)"
          << endl;
     cout << "  =  : Get x from rear   ("
-#if LAB7_TEST2
+#if TEST2
          << "  Active "
 #else
          << "Inactive "
@@ -159,7 +159,7 @@ void print_help()
 	 << ": Programming Exercise 2)"
          << endl;
     cout << "  #  : Length            ("
-#if LAB7_TEST3
+#if TEST3
          << "  Active "
 #else
          << "Inactive "
