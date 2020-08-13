@@ -1,6 +1,6 @@
 //--------------------------------------------------------------------
 //
-//  Laboratory 5                                          ListLinked.h
+//  ListLinked.h
 //
 //  Class declaration for the linked implementation of the List ADT
 //
