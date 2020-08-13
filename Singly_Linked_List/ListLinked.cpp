@@ -2,7 +2,6 @@
 #include "iostream"
 //Name: Shivang Trivedi
 //Date: Jan 30, 2019
-//Lab: 05 - Take Home
 template<typename DataType>
 inline List<DataType>::List(int ignored)
 {
