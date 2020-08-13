@@ -1,6 +1,6 @@
 //--------------------------------------------------------------------
 //
-//  Laboratory 10                                        test10std.cpp
+//  test10std.cpp
 //
 //  Test program for the standard deviation operation in the Hash Table ADT
 //
