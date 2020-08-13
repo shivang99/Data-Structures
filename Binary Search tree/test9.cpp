@@ -1,6 +1,6 @@
 //--------------------------------------------------------------------
 //
-//  Laboratory 9                                         test9.cpp
+// test9.cpp
 //
 //  Test program for the operations in the Binary Search Tree ADT
 //
