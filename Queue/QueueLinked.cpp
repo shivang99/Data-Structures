@@ -1,6 +1,5 @@
 //Name: Shivang Trivedi
 //Date: March 5, 2019
-//Lab: 7 - take home
 #include "QueueLinked.h"
 
 template <typename DataType>
